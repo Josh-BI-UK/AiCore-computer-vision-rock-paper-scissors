@@ -1,10 +1,6 @@
 {
 	"folders": [
 		{
-			"name": "python-basics",
-			"path": "../python-basics"
-		},
-		{
 			"path": "../AiCore-computer-vision-rock-paper-scissors"
 		}
 	],
